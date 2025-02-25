@@ -1,0 +1,12 @@
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\bin\Debug\Sharp3000.exe.config
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\bin\Debug\Sharp3000.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\bin\Debug\Sharp3000.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\obj\Debug\Sharp3000.csprojResolveAssemblyReference.cache
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\obj\Debug\Sharp3000.csproj.GenerateResource.Cache
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\obj\Debug\Sharp3000.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp3000\Sharp3000\obj\Debug\Sharp3000.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp\Sharp3000\Sharp3000\bin\Debug\Sharp3000.exe.config
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp\Sharp3000\Sharp3000\obj\Debug\Sharp3000.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp\Sharp3000\Sharp3000\obj\Debug\Sharp3000.pdb

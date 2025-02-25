@@ -1,0 +1,16 @@
+H:\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).exe
+H:\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).xml
+H:\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).pdb
+C:\Users\Nils Schlüter\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).exe
+C:\Users\Nils Schlüter\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).xml
+C:\Users\Nils Schlüter\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).xml
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\bin\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\bin\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\bin\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).xml
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion_f_x____Vorlage_ITF1_11__VB2010_.Resources.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\GenerateResource.write.1.tlog

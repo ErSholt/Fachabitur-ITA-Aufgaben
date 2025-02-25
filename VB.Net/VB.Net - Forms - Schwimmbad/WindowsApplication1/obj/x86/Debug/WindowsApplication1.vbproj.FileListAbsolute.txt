@@ -1,0 +1,22 @@
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\TANJA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Schwimmbad\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

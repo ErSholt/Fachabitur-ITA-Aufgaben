@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\W\u00FCrfel\\W\u00FCrfel1 - Kopie - Kopie\\W\u00FCrfeln1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B59E997-88D6-4DB2-B140-85B9187DF048}|W\u00FCrfeln1\\W\u00FCrfeln1.vbproj|c:\\users\\apekwhuut\\documents\\schule\u0026studium\\programmierung fachabi\\\u00FCbungen\\vb.net\\w\u00FCrfel\\w\u00FCrfel1 - kopie - kopie\\w\u00FCrfeln1\\w\u00FCrfeln1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2B59E997-88D6-4DB2-B140-85B9187DF048}|W\u00FCrfeln1\\W\u00FCrfeln1.vbproj|solutionrelative:w\u00FCrfeln1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B59E997-88D6-4DB2-B140-85B9187DF048}|W\u00FCrfeln1\\W\u00FCrfeln1.vbproj|c:\\users\\apekwhuut\\documents\\schule\u0026studium\\programmierung fachabi\\\u00FCbungen\\vb.net\\w\u00FCrfel\\w\u00FCrfel1 - kopie - kopie\\w\u00FCrfeln1\\w\u00FCrfeln1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2B59E997-88D6-4DB2-B140-85B9187DF048}|W\u00FCrfeln1\\W\u00FCrfeln1.vbproj|solutionrelative:w\u00FCrfeln1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\W\u00FCrfel\\W\u00FCrfel1 - Kopie - Kopie\\W\u00FCrfeln1\\W\u00FCrfeln1\\Form1.vb",
+              "RelativeDocumentMoniker": "W\u00FCrfeln1\\Form1.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\W\u00FCrfel\\W\u00FCrfel1 - Kopie - Kopie\\W\u00FCrfeln1\\W\u00FCrfeln1\\Form1.vb",
+              "RelativeToolTip": "W\u00FCrfeln1\\Form1.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T09:46:29.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\W\u00FCrfel\\W\u00FCrfel1 - Kopie - Kopie\\W\u00FCrfeln1\\W\u00FCrfeln1\\Form1.vb",
+              "RelativeDocumentMoniker": "W\u00FCrfeln1\\Form1.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\W\u00FCrfel\\W\u00FCrfel1 - Kopie - Kopie\\W\u00FCrfeln1\\W\u00FCrfeln1\\Form1.vb [Design]",
+              "RelativeToolTip": "W\u00FCrfeln1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T09:46:12.143Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

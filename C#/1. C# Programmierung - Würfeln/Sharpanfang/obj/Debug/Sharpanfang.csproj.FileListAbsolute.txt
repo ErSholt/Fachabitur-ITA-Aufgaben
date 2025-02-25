@@ -1,0 +1,12 @@
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\bin\Debug\Sharpanfang.exe.config
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\bin\Debug\Sharpanfang.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\bin\Debug\Sharpanfang.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\obj\Debug\Sharpanfang.csproj.GenerateResource.Cache
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\obj\Debug\Sharpanfang.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\obj\Debug\Sharpanfang.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharpanfang\Sharpanfang\obj\Debug\Sharpanfang.csprojResolveAssemblyReference.cache
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp\Sharpanfang\Sharpanfang\bin\Debug\Sharpanfang.exe.config
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp\Sharpanfang\Sharpanfang\obj\Debug\Sharpanfang.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Sharp\Sharpanfang\Sharpanfang\obj\Debug\Sharpanfang.pdb

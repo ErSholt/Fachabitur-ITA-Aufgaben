@@ -1,0 +1,10 @@
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).exe
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).xml
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).pdb
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\bin\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).exe
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\bin\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).pdb
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\bin\Debug\Funktion f(x) - Vorlage ITF1-11 (VB2010).xml
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\Funktion_f_x____Vorlage_ITF1_11__VB2010_.Resources.resources
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\kk\Desktop\Funktion f(x) - Vorlage ITF1-11 (VB2010)\Funktion f(x) - Vorlage ITF1-11 (VB2010)\obj\x86\Debug\GenerateResource.write.1.tlog

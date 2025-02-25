@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Erik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C6772E-AAD9-47B7-B589-BD06A8A3AD74}|Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj|c:\\users\\apekwhuut\\documents\\schule\u0026studium\\programmierung fachabi\\\u00FCbungen\\vb.net\\erik\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11C6772E-AAD9-47B7-B589-BD06A8A3AD74}|Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Funktion f(x) - Vorlage ITF1-11 (VB2010)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C6772E-AAD9-47B7-B589-BD06A8A3AD74}|Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj|c:\\users\\apekwhuut\\documents\\schule\u0026studium\\programmierung fachabi\\\u00FCbungen\\vb.net\\erik\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funktion f(x) - Vorlage ITF1-11 (VB2010)",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Erik\\Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj",
+              "RelativeDocumentMoniker": "Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Erik\\Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj",
+              "RelativeToolTip": "Funktion f(x) - Vorlage ITF1-11 (VB2010).vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-25T09:30:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Erik\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Erik\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T09:29:12.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

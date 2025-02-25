@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Zins;Do-Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB0C47-5B06-4BAF-A11B-01AD05E79F5A}|Zins mit loop\\Zins mit loop.vbproj|c:\\users\\apekwhuut\\documents\\schule\u0026studium\\programmierung fachabi\\\u00FCbungen\\vb.net\\zins;do-loop\\zins mit loop\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6DFB0C47-5B06-4BAF-A11B-01AD05E79F5A}|Zins mit loop\\Zins mit loop.vbproj|solutionrelative:zins mit loop\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Zins;Do-Loop\\Zins mit loop\\Module1.vb",
+              "RelativeDocumentMoniker": "Zins mit loop\\Module1.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\\u00DCbungen\\VB.Net\\Zins;Do-Loop\\Zins mit loop\\Module1.vb",
+              "RelativeToolTip": "Zins mit loop\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T09:47:59.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Verflixte Eins">
+</Property><Property Name="Projektmappendatei" Value="H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Verflixte Eins.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Verflixte Eins.suo">
+</Property><Property Name="Date" Value="Freitag, 26. November 2010">
+</Property><Property Name="Time" Value="09:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Verflixte Eins.sln" Description="Datei wurde erfolgreich als &quot;H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Backup\Verflixte Eins.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="Verflixte Eins.suo" Description="Datei wurde erfolgreich als &quot;H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Backup\Verflixte Eins.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="Verflixte Eins" Source="Verflixte Eins.vbproj" Description="Projektdatei erfolgreich gesichert als H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Backup\Verflixte Eins.vbproj">
+</Event><Event ErrorLevel="0" Project="Verflixte Eins" Source="Verflixte Eins.vbproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Backup\Verflixte Eins.vbproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="Verflixte Eins" Source="AssemblyInfo.vb" Description="Datei erfolgreich gesichert als H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Verflixte Eins" Source="Module1.vb" Description="Datei erfolgreich gesichert als H:\Unterstufen\5 Übungen für die Grundstrukturen (Bedingungen und Schleifen)\Übung Würfelspiel Die verflixte Eins\Verflixte 1 - LÖSUNG\Backup\Module1.vb">
+</Event><Event ErrorLevel="1" Project="Verflixte Eins" Source="Verflixte Eins.vbproj" Description="Das Projekt ist für .NET Framework 2.0 oder 3.0 konzipiert. Wenn für das Projekt Assemblys verwendet werden, die eine neuere Version von .NET Framework erfordern, kann das Projekt nicht erstellt werden. Sie können die .NET Framework-Version durch Klicken auf &quot;Eigenschaften&quot; im Projektmenü und durch anschließendes Auswählen einer neuen Version im Dropdownfeld &quot;.NET Framework&quot; ändern. (In Visual Basic befindet sich das Dropdownfeld auf der Registerkarte &quot;Kompilieren&quot;. Klicken Sie auf die Schaltfläche &quot;Erweitere Compileroptionen...&quot;).">
+</Event><Event ErrorLevel="0" Project="Verflixte Eins" Source="Verflixte Eins.vbproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Verflixte Eins" Source="Verflixte Eins.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Verflixte Eins.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Verflixte Eins.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Verflixte Eins" Source="Verflixte Eins.vbproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

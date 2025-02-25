@@ -1,0 +1,13 @@
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\TANJA\Erik\Dokumente\Schule\Programmieren\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Zins;For-Next\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Zins;For-Next\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+D:\Apekwhuut\Dokumente\Schule\Programmieren\Zins;For-Next\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
